@@ -1,0 +1,21 @@
+{
+  "name": "display",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.1.2",
+    "electron-builder": "^22.14.13"
+  },
+  "dependencies": {
+    
+  }
+}
